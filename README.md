@@ -3,17 +3,17 @@
 
 ## Mise en place de l'environnement
 
-1. Installer RUGBY puis KOALA
+### 1. Installer RUGBY puis KOALA. 
 SASS a besoin d'être complié. La compilation est la traduction d'un fichier écrit par le developpeur en un fichier qui sera interprétable par l'ordinateur. En l'occurance le fichier SASS sera converti ("complié") en fichiers CSS qui seront interprétables par les browsers. Ici la compilation est faite en RUGBY.
 
 Si on ne met pas KOALA on doit faire des lignes de codes en RUGBY pour complier le fichier.
 
-1. Organiser ses dossiers/fichiers
+### 2. Organiser ses dossiers/fichiers. 
 Il est important de bien organiser ses fichiers puisque KOALA va 'convertir' (compiler) le fichier SASS dans des fichiers CSS. Bonne pratique de Ludo: créer un dossier "assets" dans lequel il y a un dossier CSS et un dossier SASS.
 
 La première chose à faire est de créer un fichier .scss dans le dossier SASS et dans lequel on va écrire le SASS.
 
-1. Compilation par KOALA
+### 3. Compilation par KOALA. 
 On va ensuite dans KOALA, on glisse le dossier SASS dans les dossiers à traiter.
 
 La première fois il faudra sélectionner le fichier .scss et cliquer sur "compile". Par la suite la compilation sera automatique à chaque modification du fichier .scss
