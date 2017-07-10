@@ -30,3 +30,6 @@ SASS permet d'ajouter la notion de programmation dans le CSS. Mais le navigateur
 Grâce à SASS, les fichiers CSS sont d'avantages réutilisables, mieux organisés, et demandent moins de répétitions pour leur création. On peut utiliser des variables, des fonctions,...
 
 Ex: Sur Facebook, tout est blanc sur fond bleu avec de bords gris. Les règles CSS sont réutilisables et permettent d'assurer une cohérence à travers le site. En cas de changement de couleur par exemple, il suffit de changer une variable dans son fichier SASS et non plus de mettre à jour de dizaines de propriétés différentes dans ses fichiers CSS.
+
+## 'Get Started' officiel
+http://sass-lang.com/guide
